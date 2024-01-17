@@ -83,13 +83,13 @@ def plus_one(digits: List[int]) -> List[int]:
 
 # Complexity
 #   |             O(n)
-#   |            .
-#   |          .
-#   |        .
-#   |      .
-#   |    .
-#   |  .
-#   |.
+#   |            *
+#   |          *
+#   |        *
+#   |      *
+#   |    *
+#   |  *
+#   |*
 #   |------------------->
 #       Input Size
 

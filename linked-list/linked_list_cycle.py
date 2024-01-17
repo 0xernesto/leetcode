@@ -70,13 +70,13 @@ def has_cycle(head: Optional[ListNode]) -> bool:
 
 # Complexity
 #   |             O(n)
-#   |            .
-#   |          .
-#   |        .
-#   |      .
-#   |    .
-#   |  .
-#   |.
+#   |            *
+#   |          *
+#   |        *
+#   |      *
+#   |    *
+#   |  *
+#   |*
 #   |------------------->
 #       Input Size
 
