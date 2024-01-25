@@ -53,7 +53,7 @@ def sqrt_x_1(x: int) -> int:
 
 # SPACE COMPLEXITY OF SOLUTION 1
 #   O(n)
-#       - The space complexity is O(n) due to the size of 'test_array', which stores n+1 integers.
+#       - The space complexity is O(n) due to the size of 'test_array', which stores n + 1 integers.
 #       - No additional space that grows with the input size is allocated.
 
 # Complexity
@@ -174,7 +174,6 @@ def sqrt_x_3(x: int) -> int:
 #   O(1)
 #       - Space complexity is constant as the algorithm uses a single additional variable 'r'
 #         for its computations, irrespective of the size of 'x'.
-#       - No additional data structures or recursive calls that would require extra space are used.
 #
 # Space Complexity
 #   |
